@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.systems</groupId>
-    <artifactId>ordering</artifactId>
+    <artifactId>ordering-system</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ordering</name>
     <description>Ordering System</description>
